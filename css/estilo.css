@@ -35,7 +35,7 @@ body{
   background-image: linear-gradient(
     rgba(0, 0, 0, 0.8),
     rgba(0, 0, 0, 0.8)
-  ), url(./img/redes-cloud.jpg);
+  ), url(redes-cloud.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
